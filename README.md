@@ -1,4 +1,32 @@
 # MyParcelCom - contao-lib (Api)
+
+First we recommend to config two new order status at your isotope configuration:
+
+e.g.
+
+1.) Fullfillment in process (Status if order details transfered)
+2.) Order shipped (Status if tracking info get from MyParcel.com - Portal)
+
+
+##Backend-Modul: MyParcel.com API-Konfiguration
+Here you have to setup (fill in) your MyParcel.com API credentials which you have created at the MyParcel.com Portal under the menu section "API client". Its located under the profil icon !
+
+The following setup data needed:
+
+- API-client credentials (from MyParcel.com Portal)
+- Name of MyParcel.com-Shop
+- Dropdownvalue (in this case Isotope)
+- your choosen orderstatus
+
+For the orderstatus you have two choices. The field "MyParcel.com-Bestellstatus" is the shown status if the order data are transfered e.g. Fullfillment in process.
+The field "Status für Tracking" setup which status is shown if tracking data available e.g. Order shipped.
+The configured/set status are changed by the bundles automatically.
+
+## Backend-Modul: MyParcel.com API Lieferung
+This menu shows all orders which are transfered to the MyParcel.com Portal. Here you can see the "shipment-id" for each order from the MyParcel.com portal, too.
+
+
+(German part)
 Im Folgenden werden ein paar Hinweise für die Einrichtung des Bundles gegeben.
 ## Backend-Modul: MyParcel.com API-Konfiguration
 In diesem Modul kann der Zugriff auf die MyParcel.com-API konfiguriert werden.
