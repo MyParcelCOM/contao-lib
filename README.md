@@ -25,6 +25,8 @@ The configured/set status are changed by the bundles automatically.
 ## Backend-Modul: MyParcel.com API Lieferung
 This menu shows all orders which are transfered to the MyParcel.com Portal. Here you can see the "shipment-id" for each order from the MyParcel.com portal, too.
 
+More detailinformations about installation and configuration at https://help.myparcel.com/support/solutions ,too.
+
 
 (German part)
 Im Folgenden werden ein paar Hinweise für die Einrichtung des Bundles gegeben.
