@@ -4,12 +4,12 @@ First we recommend to config two new order status at your isotope configuration:
 
 e.g.
 
-1.) Fullfillment in process (Status if order details transfered)
-2.) Order shipped (Status if tracking info get from MyParcel.com - Portal)
+1.) "Fullfillment in process" (Status if order details transfered)
+2.) "Order shipped" (Status if tracking info get from MyParcel.com - Portal)
 
 
 ##Backend-Modul: MyParcel.com API-Konfiguration
-Here you have to setup (fill in) your MyParcel.com API credentials which you have created at the MyParcel.com Portal under the menu section "API client". Its located under the profil icon !
+Here you have to setup (fill in) your MyParcel.com API credentials which you have created at the MyParcel.com Portal (https://app.myparcel.com/login) under the menu section "API client". Its located under the profil icon !
 
 The following setup data needed:
 
