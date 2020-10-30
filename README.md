@@ -9,12 +9,12 @@ e.g.
 
 
 ##Backend-Modul: MyParcel.com API-Konfiguration
-Here you have to setup (fill in) your MyParcel.com API credentials which you have created at the MyParcel.com Portal (https://app.myparcel.com/login) under the menu section "API client". Its located under the profil icon !
+Here you have to setup (fill in) your MyParcel.com API credentials which you have created at the MyParcel.com Portal (https://sbs.sendmyparcel.com/login) under the menu section "API client". Its located under the profil icon !
 
 The following setup data needed:
 
 - API-client credentials (from MyParcel.com Portal)
-- Name of MyParcel.com-Shop
+- Name of MyParcel -Shop
 - Dropdownvalue (in this case Isotope)
 - your choosen orderstatus
 
